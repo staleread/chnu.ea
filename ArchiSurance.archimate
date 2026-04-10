@@ -1599,9 +1599,19 @@
       <element xsi:type="archimate:ArchimateDiagramModel" name="Figure-20_Resource Map View" id="id-3e5b0021f607434f9c54ae9c095bf602">
         <child xsi:type="archimate:DiagramObject" id="id-906a21c35eef4bd782017d9c3ee02562" targetConnections="id-202e69d32bef42ee8067c4c9895549a1" archimateElement="id-59695e0dfb374505829d1fa2970b0dd9">
           <bounds x="353" y="351" width="120" height="55"/>
+          <child xsi:type="archimate:Note" id="id-6e34b140991f4bb9934f75775c2bb5e7" textAlignment="1">
+            <bounds x="96" width="30" height="27"/>
+            <feature name="lineAlpha" value="225"/>
+            <content>S</content>
+          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-37363f549dc04f7e963d1245c93fecf0" targetConnections="id-0a277fcb8559468e9bf630877215ba18" archimateElement="id-682c6fe30007439c9b0942aa739b95e1">
           <bounds x="353" y="624" width="120" height="55"/>
+          <child xsi:type="archimate:Note" id="id-b5fbb0c94e9342709807c4b8cc1244ef" textAlignment="1">
+            <bounds x="96" width="30" height="27"/>
+            <feature name="lineAlpha" value="225"/>
+            <content>S</content>
+          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2796f62595544d1e96fc86b982016e17" archimateElement="id-d23dc880603b4fb49bfe244fe493cd4c">
           <bounds x="348" y="768" width="120" height="55"/>
