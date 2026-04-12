@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Laba01 - ArchiTogaf" id="id-f5ac3e5ab68144bdae8fa50586125604" version="5.0.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="ArchiSurance" id="id-f5ac3e5ab68144bdae8fa50586125604" version="5.0.0">
   <folder name="Strategy" id="id-1246c699d24f4b08987f1e799c97c1fc" type="strategy">
     <folder name="Capibility" id="id-56e46f5ad7cc4de090977e53d9126efb">
       <folder name="Bussines Mnagement Capability" id="id-691a9197e584455c880682ada502b0f6">
