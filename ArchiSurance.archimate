@@ -201,7 +201,7 @@
       <element xsi:type="archimate:DataObject" name="Customer Data" id="id-821615be8444434e81bc759c4ab31be9"/>
     </folder>
     <folder name="Function" id="id-999c2607c75741d5a4a92872ea7272ec">
-      <element xsi:type="archimate:ApplicationFunction" name="Customer Data Acess" id="id-5c893ab2d47a4ee383a49cdc04deec3e"/>
+      <element xsi:type="archimate:ApplicationFunction" name="Customer Data Access" id="id-5c893ab2d47a4ee383a49cdc04deec3e"/>
       <element xsi:type="archimate:ApplicationFunction" name="Policy Data Management" id="id-e2716f9e253349b6a40009854c9cff15"/>
     </folder>
   </folder>
